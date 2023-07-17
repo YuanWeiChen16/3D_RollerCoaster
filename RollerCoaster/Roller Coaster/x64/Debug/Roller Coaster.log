@@ -1,0 +1,46 @@
+﻿  Moc'ing TrainView.h...
+  Moc'ing AppMain.h...
+  CBMPLoader.cpp
+  moc_AppMain.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  moc_TrainView.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Model.cpp
+  myModel.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  partical.cpp
+  Sleeper.cpp
+  AppMain.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ControlPoint.cpp
+  main.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Square.cpp
+  Track.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\src\track.cpp(173): warning C4477: 'fprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  c:\users\user\desktop\rollercoaster\roller coaster\src\track.cpp(173): note: 請考慮在格式字串中使用 '%zd'
+  TrainView.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Triangle.cpp
+  3DUtils.cpp
+  ArcBallCam.cpp
+  Pnt3f.cpp
+  Terrain.cpp
+  TrackTest.cpp
+  Tunnel.cpp
+  正在產生程式碼...
+  正在編譯...
+  vector.cpp
+  Water.cpp
+  正在產生程式碼...
+  qrc_AppMain.cpp
+TrainView.obj : error LNK2019: 無法解析的外部符號 "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ) 在函式 "public: void __cdecl MyModel::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@MyModel@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被參考
+TrainView.obj : error LNK2019: 無法解析的外部符號 "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ) 在函式 "public: void __cdecl MyModel::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@MyModel@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被參考
+TrainView.obj : error LNK2019: 無法解析的外部符號 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z) 在函式 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中被參考
+TrainView.obj : error LNK2019: 無法解析的外部符號 "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ) 在函式 "public: void __cdecl MyModel::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@MyModel@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被參考
+C:\Users\user\Desktop\RollerCoaster\x64\Debug\\Roller Coaster.exe : fatal error LNK1120: 4 個無法解析的外部符號

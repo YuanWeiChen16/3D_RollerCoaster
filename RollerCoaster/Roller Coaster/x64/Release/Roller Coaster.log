@@ -1,0 +1,4 @@
+﻿  TrainView.cpp
+c:\users\user\desktop\rollercoaster\roller coaster\include\trainview.h(24): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\desktop\rollercoaster\roller coaster\include\assimp\defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  Roller Coaster.vcxproj -> C:\Users\user\Desktop\RollerCoaster\x64\Release\Roller Coaster.exe
