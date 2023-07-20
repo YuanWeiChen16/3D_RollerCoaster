@@ -2,7 +2,10 @@
 ## 成品展示  
  * youtube [連結](https://www.youtube.com/watch?v=wjvbZNcRziw)
  * [![IMAGE ALT TEXT](http://img.youtube.com/vi/wjvbZNcRziw/0.jpg)](https://www.youtube.com/watch?v=wjvbZNcRziw "電腦圖學導論 作業3 RollerCoaster")
+### 說明
+ * 這是大學圖學導論 第三個專案，我們需要做出使用Spline的軌道，並使用OpenGL與Shader渲染出結果。
 ### 功能說明
+
 #### 軌道與列車
  * 有兩種車型可以選擇
  * 滑桿可以調整車速
